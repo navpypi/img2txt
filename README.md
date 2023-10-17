@@ -5,7 +5,8 @@ Install tesseract in the machine.
 
 Install all required pip packages.
 
-Create a folder "pics" in the current directory.
+Create a folder "pics" in the current directory and place your images.
+
 
 To get a text file generated for the text in the image, change the parameter in the code to Ture.
 
